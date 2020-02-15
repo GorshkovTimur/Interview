@@ -1,4 +1,4 @@
-package com.timmyg.interviewcourse.second_lesson;
+package com.timmyg.interviewcourse.second_lesson.first_task;
 
 import java.time.LocalDateTime;
 

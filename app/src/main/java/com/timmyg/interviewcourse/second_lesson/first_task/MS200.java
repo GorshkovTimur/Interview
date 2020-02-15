@@ -1,8 +1,10 @@
-package com.timmyg.interviewcourse.second_lesson;
+package com.timmyg.interviewcourse.second_lesson.first_task;
 
 import android.os.Build;
 
 import androidx.annotation.RequiresApi;
+
+import com.timmyg.interviewcourse.second_lesson.first_task.MeteoSensor;
 
 import java.time.*;
 

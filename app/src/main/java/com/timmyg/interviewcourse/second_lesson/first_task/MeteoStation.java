@@ -1,4 +1,4 @@
-package com.timmyg.interviewcourse.second_lesson;
+package com.timmyg.interviewcourse.second_lesson.first_task;
 
 public class MeteoStation {
     public static void main(String[] args){
