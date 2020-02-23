@@ -3,4 +3,7 @@
     <string name="enter_number">Enter number</string>
     <string name="convert">convert</string>
     <string name="result_will_be_here">result will be here</string>
+    <string name="fragment1">fragment1</string>
+    <string name="tv_fragment1_text">Здесь находится очень важный текст из фрагмента 1. \\n рекомендую ознакомиться так же с важным текстом фрагмента 2</string>
+    <string name="tv_fragment2_text">Вашему вниманию представлено важнейшее сообщение!</string>
 </resources>
