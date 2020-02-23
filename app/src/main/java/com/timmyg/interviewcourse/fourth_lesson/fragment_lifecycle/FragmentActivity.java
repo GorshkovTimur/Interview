@@ -58,7 +58,7 @@ public class FragmentActivity extends AppCompatActivity {
                 FragmentTransaction transaction = getSupportFragmentManager().beginTransaction();
 
                 if (fragment1 != null && fragment1.isAdded()) {
-                    transaction.remove(fragment2);
+                    transaction.remove(fragment1);
                 }
 
                 if (fragment2 == null) {
