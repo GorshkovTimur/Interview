@@ -9,6 +9,11 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+        <service
+            android:name=".fourth_lesson.service.MyService"
+            android:enabled="true"
+            android:exported="false"></service>
+
         <receiver android:name=".fourth_lesson.widget.MyWidget">
             <intent-filter>
                 <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />

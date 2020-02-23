@@ -31,6 +31,24 @@
         android:layout_margin="@dimen/margin"
         />
 
+        <Button
+            android:id="@+id/btn_start_service"
+            android:layout_width="@dimen/width_for_button"
+            android:layout_height="wrap_content"
+            android:text="@string/start"
+            android:layout_weight="1"
+            android:layout_margin="@dimen/margin"
+            />
+
+        <Button
+            android:id="@+id/btn_stop_service"
+            android:layout_width="@dimen/width_for_button"
+            android:layout_height="wrap_content"
+            android:text="@string/stop_service"
+            android:layout_weight="1"
+            android:layout_margin="@dimen/margin"
+            />
+
     </LinearLayout>
 
     <FrameLayout
